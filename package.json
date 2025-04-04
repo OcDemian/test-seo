@@ -1,6 +1,7 @@
 {
   "name": "seo-test",
   "private": true,
+  "homepage": "https://OcDemian.github.io/test-seo",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
